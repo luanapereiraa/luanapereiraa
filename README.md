@@ -2,7 +2,7 @@
 
 - 🔭 Atuo com desenvolvimento front-end
 - ⚡ HTML | CSS | JavaScript | JQuery | SQL
-- 🌱 Cursando Jogos Digitais
+- 🌱 Cursando Análise e Desenvolviemento de Sistemas
 - 😄 Pronouns: ela/dela
 
 <div align="center">
@@ -30,6 +30,6 @@
   <a href = "mailto:luanavitoria501@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luana-barbosa-17a64722b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
